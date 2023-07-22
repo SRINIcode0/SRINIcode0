@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SRINIcode0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on desinging
 - 📫 Reach me @ instagram@_kings_men_srini_
 
